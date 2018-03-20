@@ -4,3 +4,6 @@ D:\Helpsim\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
 D:\Helpsim\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
 D:\Helpsim\SampleProject\SampleProject\obj\Debug\SampleProject.exe
 D:\Helpsim\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\sample-download\kalyani\SampleProject\bin\Debug\SampleProject.exe.config
+C:\sample-download\kalyani\SampleProject\obj\Debug\SampleProject.exe
+C:\sample-download\kalyani\SampleProject\obj\Debug\SampleProject.pdb
